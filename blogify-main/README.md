@@ -214,15 +214,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS** for the beautiful styling system
 - **Unsplash** for the high-quality stock images
 
-## 📞 Support
 
-If you have any questions or run into issues, please:
-1. Check the existing [Issues](https://github.com/satyaranjan2005/blogify/issues)
-2. Create a new issue with detailed information
-3. Join our [Discord Community](https://discord.gg/blogify) for real-time help
 
----
-
-**Built with ❤️ by [satyaranjan]**
+**Built with ❤️ by [KasisGoenka]**
 
 *Happy Blogging! 🎉*
